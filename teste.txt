@@ -1,1 +1,3 @@
-Tiago Oliveira Souza
+Tiago Sampaio
+A história do GLPI remonta a 2003, quando uma equipe de desenvolvedores da organização sem fins lucrativos INDEPNET, liderada por Jean-Mathieu Doléans, Julien Dombre e Bazile Lebeau, 
+começou a trabalhar em um projeto para criar uma solução de código aberto para o gerenciamento de ativos de TI.
